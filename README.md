@@ -6,6 +6,10 @@ Custom CNN model is used in this project.
 You can find the project that is used pretrained Tesseract model on https://github.com/Supernova1024/OCR-Pdf-to-CSV-Table  
 Please give me star if this project was helpful to your startup project. :)
 
+The result is stored in "focus_border_Images" folder
+![](https://github.com/Supernova1024/OCR-PDF-to-CSV-Table-by-CNN/blob/main/focus_border_img.jpg)
+![](https://github.com/Supernova1024/OCR-PDF-to-CSV-Table-by-CNN/blob/main/focus_border_images.png)
+  
 # Installing
 - Download this repository
 - Install requirements.txt in project root directory
@@ -25,7 +29,7 @@ Please give me star if this project was helpful to your startup project. :)
   ```
  
 # Result Description
-  ![](https://github.com/topcoder20022/OCR-PDF-TABLE/blob/master/table_1.jpg)
+  ![](https://github.com/Supernova1024/OCR-PDF-to-CSV-Table-by-CNN/blob/main/table_1.jpg)
   In this project, I used the table that has 7 columns
   1, 4, and 5 columns can't be recognized by the model.
   The boxes of these columns are stored in "output_img" folder as JPG and added their file name to csv file.
